@@ -1,0 +1,21 @@
+
+.event-list {
+    width: 30vw;
+    height: 95vh;
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    display: inline-block;
+    overflow-y: auto;
+    overflow-x: hidden;
+    
+}
+
+
+.event-item {
+    height: 30px;
+    width: 30vw;
+    text-align: center;
+    border: 1px solid #7d0000;
+    background-color: brown;
+}

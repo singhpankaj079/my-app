@@ -1,0 +1,26 @@
+
+.event-body {
+	width: 70vw;
+	height: 95vh;
+	position: absolute;
+	display: inline-block;
+	top: 30px;
+	left: 30vw;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+
+.log-item:nth-child(even) {
+	height: 30px;
+	width: 70vw;
+	border: 1px solid grey;
+	background-color: #babaca;
+}
+
+.log-item:nth-child(odd) {
+	height: 30px;
+	width: 70vw;
+	border: 1px solid grey;
+	background-color: #ffb0b0;
+}
