@@ -32,7 +32,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://singhpankaj079.github.io/my-app"
+    "homepage": "http://singhpankaj079.github.io/my-app"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
